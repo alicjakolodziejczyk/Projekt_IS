@@ -1,0 +1,951 @@
+[
+  {
+    "kod": "IIS1.1",
+    "nazwa": "Bezpieczeństwo i higiena pracy",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W27",
+      "I2A_K03"
+    ]
+  },
+  {
+    "kod": "IIS1.2",
+    "nazwa": "Przysposobienie biblioteczne",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W24",
+      "I1A_W28",
+      "I1A_U01",
+      "I1A_U17",
+      "I1A_K01",
+      "I2A_K02"
+    ]
+  },
+  {
+    "kod": "IIS1.3",
+    "nazwa": "Podstawy ekonomii",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W26",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U05",
+      "I1A_U07",
+      "I1A_U18",
+      "I1A_K01",
+      "I2A_K02",
+      "I2A_K03",
+      "I2A_K05",
+      "I2A_K06"
+    ]
+  },
+  {
+    "kod": "IIS1.4",
+    "nazwa": "Podstawy fizyki",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W03",
+      "I1A_U04",
+      "I1A_U09",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS1.5",
+    "nazwa": "Wstęp do matematyki",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W01",
+      "I1A_U09",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS1.6",
+    "nazwa": "Matematyka dyskretna",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W01",
+      "I1A_W02",
+      "I1A_W14",
+      "I1A_U09",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS1.7",
+    "nazwa": "Wprowadzenie do informatyki",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W05",
+      "I1A_W10",
+      "I1A_W12",
+      "I1A_W14",
+      "I1A_W25",
+      "I1A_U16",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS1.8",
+    "nazwa": "Programowanie strukturalne",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W05",
+      "I1A_W07",
+      "I1A_W13",
+      "I1A_U01",
+      "I1A_U03",
+      "I1A_U06",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS1.9",
+    "nazwa": "Narzędzia informatyczne",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W06",
+      "I1A_W07",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U03",
+      "I1A_U10",
+      "I1A_U14",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS2.1",
+    "nazwa": "Ochrona własności intelektualnej",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W26",
+      "I1A_W29",
+      "I1A_U07",
+      "I1A_U08",
+      "I1A_U18",
+      "I2A_K05"
+    ]
+  },
+  {
+    "kod": "IIS2.2",
+    "nazwa": "Wprowadzenie na rynek pracy i do działalności gospodarczej",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W24",
+      "I1A_W28",
+      "I1A_U01",
+      "I1A_U17",
+      "I1A_K01",
+      "I2A_K02"
+    ]
+  },
+  {
+    "kod": "IIS2.4",
+    "nazwa": "Matematyka dla informatyków I",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W01",
+      "I1A_W02",
+      "I1A_U09",
+      "I2A_K01"
+    ]
+  },
+  {
+    "kod": "IIS2.5",
+    "nazwa": "Programowanie obiektowe w C++",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W07",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U11",
+      "I1A_U13",
+      "I1A_U15",
+      "I1A_U18",
+      "I1A_K02",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS2.6",
+    "nazwa": "Podstawy algorytmiki",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W05",
+      "I1A_W07",
+      "I1A_W14",
+      "I1A_U09",
+      "I1A_U12",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS2.7",
+    "nazwa": "Wstęp do systemów operacyjnych",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W08",
+      "I1A_W09",
+      "I1A_W15"
+    ]
+  },
+  {
+    "kod": "IIS2.8",
+    "nazwa": "Podstawy sieci komputerowych",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W08",
+      "I1A_W09",
+      "I1A_W11",
+      "I1A_W12",
+      "I1A_W15",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U04",
+      "I1A_U05",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K01",
+      "I1A_K02",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS3.1",
+    "nazwa": "Wychowanie fizyczne I",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_U07",
+      "I2A_K03",
+      "I2A_K06"
+    ]
+  },
+  {
+    "kod": "IIS3.2",
+    "nazwa": "Język angielski I",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_U01",
+      "I1A_U06",
+      "I1A_U07",
+      "I2A_K01"
+    ]
+  },
+  {
+    "kod": "IIS3.3",
+    "nazwa": "Metrologia",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W11",
+      "I1A_W19",
+      "I1A_W24",
+      "I1A_W27",
+      "I1A_U01",
+      "I1A_U04",
+      "I2A_U07",
+      "I2A_U18",
+      "I2A_K01",
+      "I2A_K04"
+    ]
+  },
+  {
+    "kod": "IIS3.4",
+    "nazwa": "Matematyka dla informatyków II",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W01",
+      "I1A_U02",
+      "I1A_U09",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS3.5",
+    "nazwa": "Algorytmy analizy numerycznej",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W05",
+      "I1A_W10",
+      "I1A_W14",
+      "I1A_U04",
+      "I1A_U09",
+      "I1A_U16",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS3.6",
+    "nazwa": "Podstawy elektrotechniki i elektroniki",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W03",
+      "I1A_W11",
+      "I1A_U02",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS3.7",
+    "nazwa": "Programowanie obiektowe w Java",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W07",
+      "I1A_W18",
+      "I1A_U09",
+      "I1A_U15",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS3.8",
+    "nazwa": "Architektura komputerów i programowanie niskopoziomowe",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W05",
+      "I1A_W07",
+      "I1A_W09",
+      "I1A_W11",
+      "I1A_W13",
+      "I1A_U02",
+      "I1A_U05",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K01",
+      "I1A_K02",
+      "I1A_K03"
+    ]
+  },
+  {
+    "kod": "IIS3.9",
+    "nazwa": "Wprowadzenie do systemów baz danych",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W14",
+      "I1A_W16",
+      "I1A_U13",
+      "I1A_U14",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K04",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS4.1",
+    "nazwa": "Wychowanie fizyczne II",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_U07",
+      "I2A_K03",
+      "I2A_K06"
+    ]
+  },
+  {
+    "kod": "IIS4.2",
+    "nazwa": "Język angielski II",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_U01",
+      "I1A_U06",
+      "I1A_U07",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS4.3",
+    "nazwa": "Technika mikroprocesorowa",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W12",
+      "I1A_W13",
+      "I1A_W19",
+      "I1A_W21",
+      "I1A_U01",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_K01",
+      "I2A_K02"
+    ]
+  },
+  {
+    "kod": "IIS4.4",
+    "nazwa": "Podstawy grafiki komputerowej",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W05",
+      "I1A_W17",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS4.5",
+    "nazwa": "Podstawy inżynierii oprogramowania",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W14",
+      "I1A_W16",
+      "I1A_W20",
+      "I1A_W23",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_U14",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K04",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS4.6",
+    "nazwa": "Bezpieczeństwo informacji",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W15",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS4.7",
+    "nazwa": "Podstawy aplikacji internetowych",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W07",
+      "I1A_W18",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS4.8",
+    "nazwa": "Podstawy techniki cyfrowej",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W11",
+      "I1A_W19",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U05",
+      "I1A_U09",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS4.9",
+    "nazwa": "Podstawy paradygmatów programowania",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W05",
+      "I1A_W07",
+      "I1A_W25",
+      "I1A_U07",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K03",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS5.1",
+    "nazwa": "Język angielski – zawodowy informatyczny",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_U01",
+      "I1A_U06",
+      "I1A_U07",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS5.2",
+    "nazwa": "Sieci rozproszone",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W08",
+      "I1A_W09",
+      "I1A_W11",
+      "I1A_W15",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS5.3",
+    "nazwa": "Systemy wbudowane",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W11",
+      "I1A_W12",
+      "I1A_W21",
+      "I1A_W25",
+      "I1A_U09",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS5.4",
+    "nazwa": "Podstawy sztucznej inteligencji w języku Python",
+    "obieralny": "nie",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W10",
+      "I1A_W22",
+      "I1A_U09",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS5.CE.1",
+    "nazwa": "Podstawy telekomunikacji cyfrowej",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W03",
+      "I1A_W05",
+      "I1A_W19",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U09",
+      "I1A_U13",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS5.CE.2",
+    "nazwa": "Przetwarzanie granularne w systemach komputerowych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W22",
+      "I1A_U01",
+      "I1A_U09",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS5.CE.3",
+    "nazwa": "Inteligentne techniki obliczeniowe",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W10",
+      "I1A_W22",
+      "I1A_U09",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS5.CE.4",
+    "nazwa": "Architektura sprzętowa systemów wbudowanych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W05",
+      "I1A_W09",
+      "I1A_W12",
+      "I1A_W14",
+      "I1A_W21",
+      "I1A_U11",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_K02",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.1",
+    "nazwa": "Programowanie mikrosystemów wbudowanych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W03",
+      "I1A_W04",
+      "I1A_W12",
+      "I1A_W21",
+      "I1A_U01",
+      "I1A_U04",
+      "I1A_U09",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_K01",
+      "I1A_K02",
+      "I1A_K03",
+      "I1A_K04",
+      "I1A_K06"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.2",
+    "nazwa": "Podstawy routingu",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W08",
+      "I1A_W09",
+      "I1A_W11",
+      "I1A_W15",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.3",
+    "nazwa": "Rekonfigurowalne układy logiczne",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W10",
+      "I1A_W11",
+      "I1A_W16",
+      "I1A_W19",
+      "I1A_W20",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K02",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.4",
+    "nazwa": "Techniki obrazowania 3D",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W03",
+      "I1A_W06",
+      "I1A_W07",
+      "I1A_W17",
+      "I1A_W19",
+      "I1A_W25",
+      "I1A_U02",
+      "I1A_U09",
+      "I1A_U10",
+      "I1A_U12",
+      "I1A_U13",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K02",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.5",
+    "nazwa": "Programowanie systemów grafiki VR",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W03",
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W11",
+      "I1A_W14",
+      "I1A_W16",
+      "I1A_W17",
+      "I1A_U01",
+      "I1A_U09",
+      "I1A_U13",
+      "I1A_U15",
+      "I1A_U17",
+      "I1A_K02",
+      "I1A_K06"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.6",
+    "nazwa": "Komputerowe sterowanie w systemach rozległych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W01",
+      "I1A_W02",
+      "I1A_W04",
+      "I1A_W08",
+      "I1A_W11",
+      "I1A_W15",
+      "I1A_W16",
+      "I1A_W20",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K01",
+      "I1A_K02",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS6.CE.7",
+    "nazwa": "Kompatybilność elektromagnetyczna w inżynierii komputerowej",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W03",
+      "I1A_W11",
+      "I1A_W21",
+      "I1A_W25",
+      "I1A_W26",
+      "I1A_W27",
+      "I1A_U01",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U13",
+      "I1A_U18",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.1",
+    "nazwa": "Modelowanie systemów informatycznych z wykorzystaniem języka opisu sprzętu",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W11",
+      "I1A_W12",
+      "I1A_W13",
+      "I1A_W23",
+      "I1A_U04",
+      "I1A_U11",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.2",
+    "nazwa": "Bazy danych – praktyczne zastosowanie",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W01",
+      "I1A_W04",
+      "I1A_W14",
+      "I1A_W15",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U04",
+      "I1A_U09",
+      "I1A_U13",
+      "I1A_U14",
+      "I1A_U17",
+      "I1A_K01",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.3",
+    "nazwa": "Zarządzanie sieciami komputerowymi",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W08",
+      "I1A_W12",
+      "I1A_W16",
+      "I1A_W18",
+      "I1A_W20",
+      "I1A_W25",
+      "I1A_U01",
+      "I1A_U06",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_U18",
+      "I1A_K01",
+      "I1A_K02"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.4",
+    "nazwa": "Programowanie rozproszonych systemów informatycznych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W05",
+      "I1A_W07",
+      "I1A_W16",
+      "I1A_W20",
+      "I1A_U01",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U15",
+      "I1A_U16",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.5",
+    "nazwa": "Internet wszechrzeczy",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W07",
+      "I1A_W08",
+      "I1A_W14",
+      "I1A_W15",
+      "I1A_W18",
+      "I1A_W21",
+      "I1A_W25",
+      "I1A_W26",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U05",
+      "I1A_U13",
+      "I1A_U15",
+      "I1A_K01",
+      "I1A_K02",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.6",
+    "nazwa": "Programowanie aplikacji IoT",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W03",
+      "I1A_W07",
+      "I1A_W08",
+      "I1A_W11",
+      "I1A_W19",
+      "I1A_W21",
+      "I1A_U11",
+      "I1A_U12",
+      "I1A_U15",
+      "I1A_K01",
+      "I1A_K03",
+      "I1A_K04"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.7",
+    "nazwa": "Systemy wirtualizacji",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W09",
+      "I1A_W10",
+      "I1A_W11",
+      "I1A_W12",
+      "I1A_W15",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U13",
+      "I1A_U17",
+      "I1A_K01"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.8",
+    "nazwa": "Inżynieria systemów informatycznych",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W04",
+      "I1A_W14",
+      "I1A_W15",
+      "I1A_W16",
+      "I1A_W23",
+      "I1A_W26",
+      "I1A_U03",
+      "I1A_U09",
+      "I1A_U11",
+      "I1A_U13",
+      "I1A_U14",
+      "I1A_U18",
+      "I1A_K02",
+      "I1A_K05"
+    ]
+  },
+  {
+    "kod": "IIS7.CE.9",
+    "nazwa": "Zarządzanie systemami informatycznymi",
+    "obieralny": "tak",
+    "efekty": [
+      "I1A_W02",
+      "I1A_W07",
+      "I1A_W08",
+      "I1A_W09",
+      "I1A_W11",
+      "I1A_W12",
+      "I1A_W14",
+      "I1A_W15",
+      "I1A_W16",
+      "I1A_W18",
+      "I1A_W20",
+      "I1A_W23",
+      "I1A_W25",
+      "I1A_W26",
+      "I1A_U01",
+      "I1A_U02",
+      "I1A_U03",
+      "I1A_U04",
+      "I1A_U05",
+      "I1A_U09",
+      "I1A_U11",
+      "I1A_U13",
+      "I1A_U14",
+      "I1A_U16",
+      "I1A_K02"
+    ]
+  }
+]
