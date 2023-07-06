@@ -1,0 +1,214 @@
+[
+  {
+    "kod": "I1A_W01",
+    "efekt": "ma wiedzę z matematyki niezbędną do opisu i zrozumienia podstawowych zagadnień inżynierskich"
+  },
+  {
+    "kod": "I1A_W02",
+    "efekt": "ma wiedzę w zakresie matematyki, niezbędną do opisu zagadnień przetwarzania informacji na poziomie programistycznym i sprzętowym"
+  },
+  {
+    "kod": "I1A_W03",
+    "efekt": "ma uporządkowaną wiedzę w zakresie fizyki, niezbędną do zrozumienia podstawowych praw i zjawisk mających zastosowanie w informatyce technicznej oraz przydatną do formułowania i rozwiązywania zagadnień inżynierskich"
+  },
+  {
+    "kod": "I1A_W04",
+    "efekt": "ma wiedzę obejmującą zagadnienia zastosowania informatyki w innych dziedzinach nauki, techniki i działalności gospodarczej"
+  },
+  {
+    "kod": "I1A_W05",
+    "efekt": "ma wiedzę z zakresu teoretycznych podstaw informatyki, algorytmiki i paradygmatów programowania"
+  },
+  {
+    "kod": "I1A_W06",
+    "efekt": "ma wiedzę w obszarze zasad i narzędzi tworzenia dokumentów multimedialnych, w tym automatyzacji ich przetwarzania"
+  },
+  {
+    "kod": "I1A_W07",
+    "efekt": "ma wiedzę dotyczącą tworzenia programów w różnych współczesnych językach programowania"
+  },
+  {
+    "kod": "I1A_W08",
+    "efekt": "ma wiedzę dotyczącą sieci komputerowych, także w środowisku przemysłowym"
+  },
+  {
+    "kod": "I1A_W09",
+    "efekt": "ma wiedzę dotyczącą zadań, budowy i wykorzystania systemów operacyjnych"
+  },
+  {
+    "kod": "I1A_W10",
+    "efekt": "ma uporządkowaną i teoretycznie podbudowaną wiedzę w zakresie algorytmów analizy numerycznej"
+  },
+  {
+    "kod": "I1A_W11",
+    "efekt": "ma elementarną wiedzę dotyczącą elektrotechniki i elektroniki niezbędną do zrozumienia podstaw działania sprzętu informatycznego"
+  },
+  {
+    "kod": "I1A_W12",
+    "efekt": "ma wiedzę dotyczącą podstaw architektury oraz organizacji komputerów i ich systemów"
+  },
+  {
+    "kod": "I1A_W13",
+    "efekt": "ma wiedzę dotyczącą podstaw programowania niskopoziomowego"
+  },
+  {
+    "kod": "I1A_W14",
+    "efekt": "ma wiedzę dotyczącą struktur i baz danych oraz systemów zarządzania nimi"
+  },
+  {
+    "kod": "I1A_W15",
+    "efekt": "zna problematykę zagrożeń bezpieczeństwa informacji i metody przeciwdziałania tym zagrożeniom oraz zasady postępowania w przypadku incydentów bezpieczeństwa"
+  },
+  {
+    "kod": "I1A_W16",
+    "efekt": "ma wiedzę dotyczącą systemów informatycznych, w tym zasad i metod ich tworzenia, wdrażania i eksploatacji"
+  },
+  {
+    "kod": "I1A_W17",
+    "efekt": "ma wiedzę w zakresie podstaw grafiki komputerowej, jej modeli i metod przetwarzania"
+  },
+  {
+    "kod": "I1A_W18",
+    "efekt": "ma uporządkowaną i podbudowaną teoretycznie wiedzę dotyczącą zasad działania i budowy aplikacji internetowych"
+  },
+  {
+    "kod": "I1A_W19",
+    "efekt": "ma podstawową wiedzę dotyczącą techniki cyfrowej i jej zastosowań"
+  },
+  {
+    "kod": "I1A_W20",
+    "efekt": "zna zagadnienia funkcjonowania, projektowania, realizacji i wdrażania systemów informatycznych, w tym w obszarze zgodnym z obraną ścieżką dyplomowania"
+  },
+  {
+    "kod": "I1A_W21",
+    "efekt": "zna zasadę działania systemów wbudowanych i Internetu rzeczy"
+  },
+  {
+    "kod": "I1A_W22",
+    "efekt": "ma podstawową wiedzę w zakresie sztucznej inteligencji, jej metod i zastosowań"
+  },
+  {
+    "kod": "I1A_W23",
+    "efekt": "zna problematykę cyklu życia systemów informatycznych"
+  },
+  {
+    "kod": "I1A_W24",
+    "efekt": "ma podstawową wiedzę dotyczącą pracy naukowej, formułowania pytań i hipotez badawczych, organizacji eksperymentów i korzystania z literatury naukowej"
+  },
+  {
+    "kod": "I1A_W25",
+    "efekt": "zna aktualny stan wiedzy i trendy rozwojowe informatyki"
+  },
+  {
+    "kod": "I1A_W26",
+    "efekt": "zna i rozumie podstawowe prawne, etyczne, ekonomiczne i inne pozatechniczne uwarunkowania wykonywania działalności zawodowej inżyniera informatyka oraz dostrzega związane z tym dylematy"
+  },
+  {
+    "kod": "I1A_W27",
+    "efekt": "zna podstawowe zasady bezpieczeństwa i higieny pracy obowiązujące w branży informatycznej"
+  },
+  {
+    "kod": "I1A_W28",
+    "efekt": "zna podstawowe pojęcia i zasady z zakresu ochrony własności przemysłowej i prawa autorskiego"
+  },
+  {
+    "kod": "I1A_W29",
+    "efekt": "zna podstawowe zasady tworzenia i prowadzenia różnych form działalności gospodarczej"
+  },
+  {
+    "kod": "I1A_U01",
+    "efekt": "potrafi pozyskiwać informacje z literatury, baz danych i innych źródeł; potrafi integrować uzyskane informacje, dokonywać ich interpretacji, krytycznej oceny i syntezy"
+  },
+  {
+    "kod": "I1A_U02",
+    "efekt": "potrafi komunikować się z otoczeniem i brać udział w debacie, korzystając ze specjalistycznej terminologii oraz technik informacyjno-komunikacyjnymi"
+  },
+  {
+    "kod": "I1A_U03",
+    "efekt": "potrafi opracować dokumentację dotyczącą realizacji zadania inżynierskiego i przygotować tekst zawierający omówienie wyników realizacji takiego zadania, w tym również w obszarze zgodnym z wybraną ścieżką dyplomowania"
+  },
+  {
+    "kod": "I1A_U04",
+    "efekt": "potrafi planować i przeprowadzać eksperymenty, w tym pomiary i symulacje komputerowe, interpretować uzyskane wyniki i wyciągać wnioski"
+  },
+  {
+    "kod": "I1A_U05",
+    "efekt": "potrafi, przy formułowaniu i rozwiązywaniu zadań inżynierskich, dostrzegać ich aspekty systemowe i pozatechniczne, w tym potrafi dokonać wstępnej analizy ekonomicznej podejmowanych działań inżynierskich"
+  },
+  {
+    "kod": "I1A_U06",
+    "efekt": "posługuje się językiem angielskim na poziomie B2 Europejskiego Systemu Opisu Kształcenia Językowego, także w stopniu wystarczającym do zdobywania i pogłębiania wiedzy z zakresu informatyki"
+  },
+  {
+    "kod": "I1A_U07",
+    "efekt": "potrafi samodzielnie planować i realizować własne uczenie się przez całe życie"
+  },
+  {
+    "kod": "I1A_U08",
+    "efekt": "posiada umiejętności umożliwiające pracę na stanowisku inżyniera informatyka, w tym stosowania zasad bezpieczeństwa"
+  },
+  {
+    "kod": "I1A_U09",
+    "efekt": "potrafi wykorzystać nabytą wiedzę z zakresu matematyki i fizyki do opisu procesów, tworzenia modeli, zapisu algorytmów oraz innych działań w obszarze informatyki"
+  },
+  {
+    "kod": "I1A_U10",
+    "efekt": "potrafi posługiwać się narzędziami informatycznymi do tworzenia i automatycznego przetwarzania dokumentów multimedialnych"
+  },
+  {
+    "kod": "I1A_U11",
+    "efekt": "potrafi, zgodnie z zadaną specyfikacją, zaprojektować urządzenie, obiekt, system lub proces, typowe dla zagadnień informatyki, używając właściwych metod, technik i narzędzi"
+  },
+  {
+    "kod": "I1A_U12",
+    "efekt": "potrafi wykorzystać poznane metody, algorytmy, modele do analizy i realizacji urządzenia, obiektu, systemu lub procesu, typowe dla informatyki"
+  },
+  {
+    "kod": "I1A_U13",
+    "efekt": "potrafi dokonać krytycznej analizy sposobu funkcjonowania i ocenić, zwłaszcza w powiązaniu z informatyką, istniejące rozwiązania techniczne, w szczególności: urządzenia, obiekty, systemy, procesy i usługi"
+  },
+  {
+    "kod": "I1A_U14",
+    "efekt": "potrafi właściwie zaprojektować i zbudować bazę danych zgodnie z podaną specyfikacją funkcjonalną oraz definiować zapytania do bazy danych, a także interpretować ich wyniki"
+  },
+  {
+    "kod": "I1A_U15",
+    "efekt": "umie tworzyć oprogramowanie w wybranych środowiskach programistycznych stosując poznane algorytmy, metody i techniki"
+  },
+  {
+    "kod": "I1A_U16",
+    "efekt": "umie zaprojektować i zapisać w sposób formalny proste algorytmy oraz potrafi zweryfikować poprawność ich działania"
+  },
+  {
+    "kod": "I1A_U17",
+    "efekt": "potrafi ocenić przydatność metod i narzędzi służących do rozwiązywania prostych zadań inżynierskich, typowych dla informatyki oraz wybierać i stosować właściwe metody i narzędzia"
+  },
+  {
+    "kod": "I1A_U18",
+    "efekt": "potrafi planować i organizować pracę indywidualną oraz w zespole, a także współdziałać z innymi osobami w ramach prac zespołowych"
+  },
+  {
+    "kod": "I1A_K01",
+    "efekt": "jest gotów do krytycznej oceny posiadanej wiedzy i odbieranych treści"
+  },
+  {
+    "kod": "I1A_K02",
+    "efekt": "jest gotów do uznawania znaczenia wiedzy w rozwiązywaniu problemów poznawczych i praktycznych oraz zasięgania opinii ekspertów w przypadku trudności z samodzielnym rozwiązaniem problemów związanych z wykonywaniem zawodu informatyka"
+  },
+  {
+    "kod": "I1A_K03",
+    "efekt": "jest gotów do wypełniania zobowiązań społecznych, współorganizowania działalności na rzecz środowiska społecznego"
+  },
+  {
+    "kod": "I1A_K04",
+    "efekt": "jest gotów do przestrzegania zasad etyki zawodowej i wymagania tego od innych oraz dbałości o dorobek i tradycje zawodu inżyniera informatyka"
+  },
+  {
+    "kod": "I1A_K05",
+    "efekt": "jest gotów do myślenia i działania w sposób przedsiębiorczy, w tym w aspekcie jednoosobowej działalności gospodarczej"
+  },
+  {
+    "kod": "I1A_K06",
+    "efekt": "jest gotów do inicjowania działań na rzecz interesu publicznego"
+  }
+]
