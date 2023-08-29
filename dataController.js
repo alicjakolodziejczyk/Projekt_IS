@@ -36,14 +36,14 @@ const prepareDataForEffectProgress = async (specjalizacja, przedmiot1, przedmiot
     {obieralny: false}, 
     {$and: [{obieralny: true}, {$or: [
       {$and: [{semestr: {$lt: 7}, specjalizacja: specjalizacja}]},
-      {$and: [{semestr: 7}, {$or: [{kod: przedmiotObieralny1}, {kod: przedmiotObieralny2}, {kod: przedmiotObieralny3}, {kod: "IIS7."+specjalizacja+".1"}]}]}
+      {$and: [{semestr: 7}, {$or: [{kod: przedmiotObieralny1}, {kod: przedmiotObieralny2}, {kod: przedmiotObieralny3}, {kod: "IIS7." + specjalizacja + ".1"}]}]}
   ]}]}]})
     }
   }
 
 }
 
-const getEffectProgress = async (req, res) => {
+const getEffectProgress1 = async (req, res) => {
   const semestr = req.body.semestr
   const przedmioty = await prepareDataForEffectProgress(req.body.specjalizacja, req.body.przedmiotObieralny1, req.body.przedmiotObieralny2, req.body.przedmiotObieralny3)
 
@@ -63,16 +63,15 @@ const getEffectProgress = async (req, res) => {
   const zdobywaneEfektyPrzedmiotow = []
   przedmioty.filter(item => item['semestr']==semestr).map((data) => {
     zdobywaneEfektyPrzedmiotow.push(...data['efekty'])
+
   })
   const zdobywaneDictionary = countOccurrences(zdobywaneEfektyPrzedmiotow)
-  console.log(zdobywaneDictionary)
 
   const przyszleEfektyPrzedmiotow = []
   przedmioty.filter(item => item['semestr']>semestr).map((data) => {
     przyszleEfektyPrzedmiotow.push(...data['efekty'])
   })
-const przyszleDictionary = countOccurrences(przyszleEfektyPrzedmiotow)
-
+  const przyszleDictionary = countOccurrences(przyszleEfektyPrzedmiotow)
 
   const efekty = await Efekt.find({})
 
@@ -84,10 +83,54 @@ const przyszleDictionary = countOccurrences(przyszleEfektyPrzedmiotow)
       wszystkie: (wszystkieDictionary[data['kod']] || 0),
       przed: (zdobyteDictionary[data['kod']] || 0),
       teraz: (zdobywaneDictionary[data['kod']] || 0),
-      po: (przyszleDictionary[data['kod']] || 0), 
+      po: (przyszleDictionary[data['kod']] || 0)
     }
   })
 res.send(JSON.stringify(result));
+}
+
+const getEffectProgress = async (req, res) => {
+  const semestr = req.body.semestr;
+  const przedmioty = await prepareDataForEffectProgress(req.body.specjalizacja, req.body.przedmiotObieralny1, req.body.przedmiotObieralny2, req.body.przedmiotObieralny3);
+  const efekty = await Efekt.find({});
+
+  let result = efekty.map((data) => {
+    return {
+      kod: data['kod'],
+      nazwa: data['nazwa'],
+      wszystkie: 0,
+      przed: 0,
+      teraz: 0,
+      po: 0,
+      przedPrzedmioty: [],
+      terazPrzedmioty: [],
+      poPrzedmioty: [],
+    }
+  });
+
+  przedmioty.forEach((przedmiot) => {
+    przedmiot.efekty.forEach((efekt) => {
+      let resultItem = result.find((item) => item.kod === efekt)
+      
+      if(przedmiot.semestr < semestr){
+        result.find((item) => item.kod === efekt).przed += 1
+        result.find((item) => item.kod === efekt).wszystkie += 1
+        result.find((item) => item.kod === efekt).przedPrzedmioty.push({kod: przedmiot.kod, nazwa: przedmiot.nazwa})
+
+      }else if (przedmiot.semestr == semestr){
+        result.find((item) => item.kod === efekt).teraz += 1
+        result.find((item) => item.kod === efekt).wszystkie += 1
+        result.find((item) => item.kod === efekt).terazPrzedmioty.push({kod: przedmiot.kod, nazwa: przedmiot.nazwa})
+
+      }else if (przedmiot.semestr > semestr){
+        result.find((item) => item.kod === efekt).po += 1
+        result.find((item) => item.kod === efekt).wszystkie += 1
+        result.find((item) => item.kod === efekt).poPrzedmioty.push({kod: przedmiot.kod, nazwa: przedmiot.nazwa})
+
+      }
+    })
+  });
+  res.send(JSON.stringify(result));
 }
 
 function countOccurrences(list) {
